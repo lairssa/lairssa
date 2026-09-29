@@ -1,6 +1,6 @@
 <div align="center">
 
- ## Hi, I'm Larissa Cavalcanti 👋
+ ### Hi, I'm Larissa Cavalcanti 👋
 
 **Software Engineer | Backend & Mobile | C# .NET, Node.js/NestJS, React Native**
 
