@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hi, I'm Larissa Cavalcanti 👋
+ ## Hi, I'm Larissa Cavalcanti 👋
 
 **Software Engineer | Backend & Mobile | C# .NET, Node.js/NestJS, React Native**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-c-cavalcanti)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:larissacarmocavalcanti@gmail.com)
 
 </div>
 
@@ -52,12 +51,5 @@ I like solving problems end-to-end — from architecture decisions to writing cl
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-<div align="center">
-
-📫 Let's connect — always happy to talk about backend architecture, fintech, or clean code.
-
-</div>
 
 
